@@ -1,0 +1,8 @@
+-e git+https://github.com/xjohnwu/cryptography-python-playground.git@953ec6a02e346a6aa9291643d7e7894b06fb20a4#egg=cryptopian_playground_hantastic
+iniconfig==2.0.0
+jsonpath-ng==1.6.1
+packaging==23.2
+pluggy==1.4.0
+ply==3.11
+pycryptodome==3.20.0
+pytest==8.0.2
